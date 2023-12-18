@@ -1,4 +1,4 @@
-# Descripción del Script SageMath - Parte 1
+# Descripción del Script SageMath
 
 Este script en SageMath resuelve una serie de problemas matemáticos. A continuación, se presenta una descripción de cada pregunta y su respectiva solución en el script:
 
